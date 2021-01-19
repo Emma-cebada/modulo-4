@@ -2,4 +2,6 @@ const add = (a, b) => {
   return a + b;
 }
 
-console.log(add(7, 14));
+console.log(add(8, 4));
+
+
